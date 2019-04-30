@@ -69,4 +69,5 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 
 ### Previous Workshop
 [1st Deep Learning on Supercomputers Workshop in SC'18 in Dallas, USA](https://www.tacc.utexas.edu/workshop/2018/deep-learning)
+
 [2nd Deep Learning for Science Workshop in ISC'19 in Frankfurt, Germany](https://dlonsc.github.io/)
