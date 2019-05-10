@@ -52,6 +52,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
+- Qifan Pu, UC Berkeley, USA
 - Judy Qiu, Indiana University, USA
 - Arvind Ramanathan, ORNL, USA
 - Vikram Saletore, Intel, USA
