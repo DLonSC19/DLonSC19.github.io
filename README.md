@@ -33,7 +33,7 @@ For questions, please contact (DLSuperWorkshop19@gmail.com).
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a maximum of 6 pages in [IEEE conference format ](https://www.ieee.org/conferences/publishing/templates.html) and submitted using [Linklings].
+Authors are invited to submit unpublished, original work with a minimum of 6 pages in [IEEE conference format ](https://www.ieee.org/conferences/publishing/templates.html) and submitted using [Linklings].
 
 
 ### Organizing Committee
