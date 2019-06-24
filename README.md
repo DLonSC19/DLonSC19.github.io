@@ -19,6 +19,7 @@ Topics include but are not limited to:
 
 As part of the reproducibility initiative, the workshop requires authors to provide information such as the algorithms, software releases, datasets, and hardware configurations used. For performance evaluation studies, we will encourage authors to use well-known benchmarks or applications with open accessible datasets: for example, [MLPerf](https://github.com/mlperf/training) and ResNet-50 with the [ImageNet-1K dataset](http://www.image-net.org/archive/stanford/fall11_whole.tar).
 
+For questions, please contact via DLSuperWorkshop19@gmail.com.
 <!--- You can use the [editor on GitHub](https://github.com/DLonSC/DLonSC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
@@ -32,7 +33,7 @@ As part of the reproducibility initiative, the workshop requires authors to prov
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 pages and a maximum of 12 pages in single column text with LNCS style. All submissions should be in [ACM conference format ](https://www.acm.org/publications/proceedings-template) and submitted using [Linklings].
+Authors are invited to submit unpublished, original work with a maximum of 6 pages in [ACM conference format ](https://www.acm.org/publications/proceedings-template) and submitted using [Linklings].
 
 
 ### Organizing Committee
