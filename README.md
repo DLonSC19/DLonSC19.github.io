@@ -19,7 +19,7 @@ Topics include but are not limited to:
 
 As part of the reproducibility initiative, the workshop requires authors to provide information such as the algorithms, software releases, datasets, and hardware configurations used. For performance evaluation studies, we will encourage authors to use well-known benchmarks or applications with open accessible datasets: for example, [MLPerf](https://github.com/mlperf/training) and ResNet-50 with the [ImageNet-1K dataset](http://www.image-net.org/archive/stanford/fall11_whole.tar).
 
-For questions, please contact via DLSuperWorkshop19@gmail.com.
+For questions, please contact (DLSuperWorkshop19@gmail.com).
 <!--- You can use the [editor on GitHub](https://github.com/DLonSC/DLonSC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
