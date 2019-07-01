@@ -56,7 +56,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
 - Qifan Pu, Google, USA
 - Judy Qiu, Indiana University, USA
-- Arvind Ramanathan, ORNL, USA
+- Arvind Ramanathan, ANL, USA
 - Vikram Saletore, Intel, USA
 - Mikhail E. Smorkalov, Intel, Russia
 - Rob Schreiber, Cerebras, USA
