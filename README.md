@@ -41,6 +41,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 pag
 - Ian Foster (co-chair), UChicago & ANL, USA
 - Zhao Zhang (co-chair), TACC, USA
 - Weijia Xu (proceeding chair), TACC, USA
+- Ahmed Al-Jarro, Fujitsu Laboratories of Europe, UK
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
 - Erich Elsen, DeepMind, USA
