@@ -33,7 +33,7 @@ For questions, please contact (DLSuperWorkshop19@gmail.com).
 
 ### Paper Submission
 
-Authors are invited to submit unpublished, original work with a minimum of 6 pages in [IEEE conference format ](https://www.ieee.org/conferences/publishing/templates.html) and submitted using [Linklings (login required)](https://submissions.supercomputing.org/?page=Submit&id=SC19WorkshopDeepLearningonSupercomputers&site=sc19). Submitted papers will be peer-reviewed and accepted papers will be published by IEEE TCHPC.
+Authors are invited to submit unpublished, original work with a minimum of 6 pages in [IEEE conference format ](https://www.ieee.org/conferences/publishing/templates.html) and submitted using [Linklings (login required)](https://submissions.supercomputing.org/?page=Submit&id=SC19WorkshopDeepLearningonSupercomputersSubmission&site=sc19). Submitted papers will be peer-reviewed and accepted papers will be published by IEEE TCHPC.
 
 
 ### Organizing Committee
