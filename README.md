@@ -24,11 +24,11 @@ For questions, please contact (DLSuperWorkshop19@gmail.com).
 
 <!--- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Import Dates (Tentative)
+### Import Dates (New with extension)
 
-- Papers due: Sep 1st, 2019
-- Acceptance notification: Sep 16th, 2019
-- Camera ready: Oct 1st, 2019
+- Papers due: ~~Sep 1st, 2019~~ Sep 11th, 2019
+- Acceptance notification: ~~Sep 16th, 2019~~ Sep 26th, 2019
+- Camera ready: ~~Oct 1st, 2019~~ Oct 11th, 2019
 - Workshop date: Nov 17th, 2019
 
 ### Paper Submission
