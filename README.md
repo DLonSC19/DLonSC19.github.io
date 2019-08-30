@@ -1,5 +1,5 @@
-![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png)
-![SC19](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/SC19-Denver-logo-490x.jpg)
+![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png | width=300)
+![SC19](https://sc19.supercomputing.org/app/uploads/2018/11/ogimage_1200.png | width=300)
 
 The Deep Learning (DL) on Supercomputers workshop (In cooperation with TCHPC and held in conjunction with SC19: The International Conference for High Performance Computing, Networking, Storage and Analysis) will be in Denver, CO, on Nov 17th, 2019. 
 This third workshop in the Deep Learning on Supercomputers series provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results. The general theme of this workshop series is the intersection of DL and HPC. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications, with an emphasis on scientific usage.
