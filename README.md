@@ -57,7 +57,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 and
 - Torsten Hoefler, ETH, Switzerland
 - Jessy Li, UT Austin, USA
 - Zhengchun Liu, ANL, USA
-- Chris A. Mattmann, California Institute of Technology and University of Southern California, USA
+- Chris A. Mattmann, JPL, Caltech & USC, USA
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
