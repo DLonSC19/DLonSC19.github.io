@@ -49,6 +49,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 and
 - Ahmed Al-Jarro, Fujitsu Laboratories of Europe, UK
 - Takuya Akiba, Preferred Networks, Japan
 - Thomas S. Brettin, ANL, USA
+- Nikoli Dryden, ETH, Switzerland
 - Erich Elsen, DeepMind, USA
 - Steve Farrell, LBNL, USA
 - Song Feng, IBM Research, USA
@@ -56,6 +57,7 @@ Authors are invited to submit unpublished, original work with a minimum of 6 and
 - Torsten Hoefler, ETH, Switzerland
 - Jessy Li, UT Austin, USA
 - Zhengchun Liu, ANL, USA
+- Chris A. Mattmann, California Institute of Technology and University of Southern California, USA
 - Peter Messmer, Nvidia, USA
 - Damian Podareanu, SURFsara, Netherlands
 - Simon Portegies Zwart, Leiden Observatory, Netherlands 
