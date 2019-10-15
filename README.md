@@ -1,6 +1,28 @@
 ![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png){:width="300px"}
 ![SC19](https://sc19.supercomputing.org/app/uploads/2018/11/ogimage_1200.png){:width="300px"}
 
+### Program (Nov 17th, 9AM--5:30PM, Location: [502-503-504]
+
+| Time | Title | Speaker |
+| --- | --- | --- |
+| 9:00--9:05 | Opening | Ian T. Foster, UChicago and ANL |
+| 9:05--10:00 | Keynote | Satoshi Matsuoka, Tokyo Institute of Technology |
+| 10:00--10:30 | Morning Break | |
+| 10:30--11:00 | DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding |  Hyungro Lee, Rutgers University |
+| 11:00--11:30 | Deep Facial Recognition using Tensorflow | Chris A. Mattmann, JPL and USC |
+| 11:30--12:00 | Deep Learning Accelerated Light Source Experiments | Zhengchun Liu, ANL |
+| 12:00--12:30 | DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training |Alessandro Rigazzi, Cray|
+| 12:30--13:00 | Aggregating Local Storage for Scalable Deep Learning I/O | Zhao Zhang, TACC |
+| 13:00--14:00 | Lunch Break | |
+| 14:00--14:30 | Highly-scalable, physics-informed GANs for learning solutions of stochastic PDEs | Liu Yang, Brown University |
+| 15:00--15:30 | Deep Learning for Gap Crossing Ability of Ground Vehicles | Benjamin Parsons, USACE-ERDC |
+| 15:30--16:00 | Afternoon Break | |
+| 15:30--16:00 | Scaling Distributed Training of Flood-Filling Networks on HPC Infrastructure for Brain Mapping | Wushi Dong, UChicago |
+| 16:00--16:30 | Evolving larger convolutional layer kernel sizes for a settlement detection deep-learner on Summit | Mark Coletti, ORNL |
+| 16:30--17:00 | Scaling TensorFlow, PyTorch, and MXNet using MVAPICH2 for High-Performance Deep Learning on Frontera | Arpan Jain, OSU |
+| 17:00--17:30 | Strategies to Deploy and Scale Deep Learning on the Summit Supercomputer | Junqi Yin, ORNL|
+
+
 The Deep Learning (DL) on Supercomputers workshop (In cooperation with TCHPC and held in conjunction with SC19: The International Conference for High Performance Computing, Networking, Storage and Analysis) will be in Denver, CO, on Nov 17th, 2019. 
 This third workshop in the Deep Learning on Supercomputers series provides a forum for practitioners working on any and all aspects of DL for scientific research in the High Performance Computing (HPC) context to present their latest research results. The general theme of this workshop series is the intersection of DL and HPC. Its scope encompasses application development in scientific scenarios using HPC platforms; DL methods applied to numerical simulation; fundamental algorithms, enhanced procedures, and software development methods to enable scalable training and inference; hardware changes with impact on future supercomputer design; and machine deployment, performance evaluation, and reproducibility practices for DL applications, with an emphasis on scientific usage.
 
