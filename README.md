@@ -6,8 +6,7 @@
 | Time | Title | Speaker |
 | --- | --- | --- |
 | 9:00--9:05 | Opening | Ian T. Foster, UChicago and ANL |
-| 9:05--10:00 | Keynote: AI for HPC and HPC for AI: Bidirectional Convergence Efforts of  HPC
-and AI on the Fugaku Supercomputer | Satoshi Matsuoka, Tokyo Institute of Technology |
+| 9:05--10:00 | Keynote: AI for HPC and HPC for AI: Bidirectional Convergence Efforts of  HPC and AI on the Fugaku Supercomputer | Satoshi Matsuoka, Tokyo Institute of Technology |
 | 10:00--10:30 | Morning Break | |
 | 10:30--11:00 | DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding |  Hyungro Lee, Rutgers University |
 | 11:00--11:30 | Deep Facial Recognition using Tensorflow | Chris A. Mattmann, JPL and USC |
