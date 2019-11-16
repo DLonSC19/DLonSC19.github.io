@@ -1,7 +1,9 @@
 ![TCHPC](https://tc.computer.org/tchpc/wp-content/uploads/sites/3/2017/06/tchpc_logo_cmyk.png){:width="300px"}
 ![SC19](https://sc19.supercomputing.org/app/uploads/2018/11/ogimage_1200.png){:width="300px"}
 
-### Program (Nov 17th, 9AM--5:30PM, Location: [502-503-504]
+### Please sign up [the DLS mail list](https://forms.gle/cMEKocLE8vcu2juZ9)
+
+### Program (Nov 17th, 9AM--5:30PM, Location: [502-503-504](https://sc19.supercomputing.org/map/?location=r502-503-504)
 
 | Time | Title | Speaker |
 | --- | --- | --- |
