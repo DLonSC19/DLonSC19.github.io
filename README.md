@@ -10,15 +10,15 @@
 | 9:00--9:05 | Opening | Ian T. Foster, UChicago and ANL |
 | 9:05--10:00 | Keynote: AI for HPC and HPC for AI: Bidirectional Convergence Efforts of  HPC and AI on the Fugaku Supercomputer | Satoshi Matsuoka, Tokyo Institute of Technology |
 | 10:00--10:30 | Morning Break | |
-| 10:30--11:00 | DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding |  Hyungro Lee, Rutgers University |
-| 11:00--11:30 | Deep Facial Recognition using Tensorflow | Chris A. Mattmann, JPL and USC |
-| 11:30--12:00 | Deep Learning Accelerated Light Source Experiments | Zhengchun Liu, ANL |
-| 12:00--12:30 | DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training |Alessandro Rigazzi, Cray|
-| 12:30--13:00 | Aggregating Local Storage for Scalable Deep Learning I/O | Zhao Zhang, TACC |
-| 13:00--14:00 | Lunch Break | |
+| 10:30--10:55 | DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding |  Hyungro Lee, Rutgers University |
+| 10:55--11:20 | Deep Facial Recognition using Tensorflow | Chris A. Mattmann, JPL and USC |
+| 11:20--11:45 | Deep Learning Accelerated Light Source Experiments | Zhengchun Liu, ANL |
+| 11:45--12:10 | DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training |Alessandro Rigazzi, Cray|
+| 12:10--12:30 | Aggregating Local Storage for Scalable Deep Learning I/O | Zhao Zhang, TACC |
+| 12:30--14:00 | Lunch Break | |
 | 14:00--14:30 | Highly-scalable, physics-informed GANs for learning solutions of stochastic PDEs | Liu Yang, Brown University |
-| 15:00--15:30 | Deep Learning for Gap Crossing Ability of Ground Vehicles | Benjamin Parsons, USACE-ERDC |
-| 15:30--16:00 | Afternoon Break | |
+| 14:30--15:00 | Deep Learning for Gap Crossing Ability of Ground Vehicles | Benjamin Parsons, USACE-ERDC |
+| 15:00--15:30 | Afternoon Break | |
 | 15:30--16:00 | Scaling Distributed Training of Flood-Filling Networks on HPC Infrastructure for Brain Mapping | Wushi Dong, UChicago |
 | 16:00--16:30 | Evolving larger convolutional layer kernel sizes for a settlement detection deep-learner on Summit | Mark Coletti, ORNL |
 | 16:30--17:00 | Scaling TensorFlow, PyTorch, and MXNet using MVAPICH2 for High-Performance Deep Learning on Frontera | Arpan Jain, OSU |
