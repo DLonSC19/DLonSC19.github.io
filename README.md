@@ -16,7 +16,7 @@
 | 11:45--12:10 | DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training |Alessandro Rigazzi, Cray|
 | 12:10--12:30 | Aggregating Local Storage for Scalable Deep Learning I/O | Zhao Zhang, TACC |
 | 12:30--14:00 | Lunch Break | |
-| 14:00--14:30 | Highly-scalable, physics-informed GANs for learning solutions of stochastic PDEs | Liu Yang, Brown University |
+| 14:00--14:30 | Highly-scalable, physics-informed GANs for learning solutions of stochastic PDEs | Thorsten Kurth , LBNL |
 | 14:30--15:00 | Deep Learning for Gap Crossing Ability of Ground Vehicles | Benjamin Parsons, USACE-ERDC |
 | 15:00--15:30 | Afternoon Break | |
 | 15:30--16:00 | Scaling Distributed Training of Flood-Filling Networks on HPC Infrastructure for Brain Mapping | Wushi Dong, UChicago |
